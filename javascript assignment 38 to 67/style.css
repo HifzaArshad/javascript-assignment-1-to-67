@@ -1,0 +1,61 @@
+/* chapter 49-52 TASK1
+ body{
+        background-image: url(https://miro.medium.com/max/3002/1*dP81IJq-tGFxy1rIK3RYsg.png);
+        text-align: center;
+}
+.main{
+    background-color:#343a40;
+    width: 350px;
+    height: 460px;
+    margin: 0 auto;
+    border-radius: 5px;
+     color: blanchedalmond; 
+    margin-top: 50px;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  
+  
+}
+.in{
+     width: 150px;
+     margin-left: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border: 2px solid #381354;
+}
+
+
+.email{
+    width: 320px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 2px solid #381354;
+}
+#check{
+    margin-right: 310px;
+    margin-top: 30px ;
+    border: 2px solid #381354;
+}
+.para{
+    margin-top: -20px;
+ }
+.sub{
+    width: 320px;
+    height: 35px;
+    margin-top: 10px;
+    background-color: #28a745;
+    border-color: #28a745;
+    border-radius: 5px;
+}  */
+
+/* 
+CHAPTER 53-57
+TASK:1
+#modalimg{
+    width: 300px;
+    height: 300px;
+}
+ */
